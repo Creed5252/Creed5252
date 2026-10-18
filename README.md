@@ -21,6 +21,23 @@ VP/GM-level operations in broadline foodservice, airline catering and last-mile 
 
 ---
 
-Most of my code is private. Screenshots and write-ups are coming to this page.
+## Showcase
+
+### Prime Line — restaurant margin tool *(in development)*
+![Prime Line weekly view](showcase/prime-line/2026-10_week.png)
+
+Independent restaurants lose margin in places nobody checks: vendor invoices that drift above the quoted price, Tuesday staffing that doesn't match Tuesday traffic, a best-selling plate that barely breaks even. Prime Line runs on the owner's own computer, reads the POS, time clock, payroll, bank and invoice files they already have, checks every number before it counts, and turns the week into three things worth doing, each with a dollar value. Shown on a fictional test restaurant.
+
+<details><summary>More screens</summary>
+
+![Purchasing](showcase/prime-line/2026-10_purchasing.png)
+![Labor](showcase/prime-line/2026-10_labor.png)
+![Menu](showcase/prime-line/2026-10_menu.png)
+
+</details>
+
+---
+
+Most of my code is private. More write-ups are coming to this page.
 
 [modernwealthmodel.com](https://modernwealthmodel.com) · [LinkedIn](https://www.linkedin.com/in/creed52)
