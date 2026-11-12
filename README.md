@@ -2,6 +2,8 @@
 
 Operator turned builder. 18 years running foodservice distribution and airline catering operations. Now I run a portfolio of small businesses on AI agent systems I designed.
 
+Everything rolls up under **Modern Wealth Model**: see the [company profile (PDF)](https://modernwealthmodel.com/wp-content/uploads/2026/11/Modern-Wealth-Model-Company-Profile.pdf) for the full portfolio.
+
 ## What I build
 
 - **Command Center** — one operating dashboard for a one-person business: pipeline, income, property and scheduling, with its own data-integrity checks.
@@ -40,4 +42,4 @@ Independent restaurants lose margin in places nobody checks: vendor invoices tha
 
 Most of my code is private. More write-ups are coming to this page.
 
-[modernwealthmodel.com](https://modernwealthmodel.com) · [LinkedIn](https://www.linkedin.com/in/creed52)
+[modernwealthmodel.com](https://modernwealthmodel.com) · [LinkedIn](https://www.linkedin.com/in/creed52) · [Company profile (PDF)](https://modernwealthmodel.com/wp-content/uploads/2026/11/Modern-Wealth-Model-Company-Profile.pdf)
