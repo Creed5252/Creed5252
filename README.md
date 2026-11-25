@@ -8,7 +8,6 @@ Everything rolls up under **Modern Wealth Model**: see the [company profile (PDF
 
 - **Command Center** — one operating dashboard for a one-person business: pipeline, income, property and scheduling, with its own data-integrity checks.
 - **Prime Line** — a locally run margin tool that finds food cost, labor and pricing leaks for independent restaurants. *(in development)*
-- **DemandReady** — a live web app that drafts demand letters with state statute checks. [demandready.io](https://demandready.io)
 - **SoCal Pitch** — a regional youth soccer directory and rankings engine. [socalpitch.com](https://socalpitch.com)
 - **The Real Yield** — a food and agriculture publication with its own publishing tools. [therealyield.org](https://therealyield.org)
 - **Agent operations** — scheduled agents that handle publishing, quality checks, backups and reporting across all of the above.
